@@ -6,7 +6,7 @@ This project was so clean up the existing code and make it more presentable and 
 
 ## Usage
 
-[link to landing page](https://raw.githubusercontent.com/Akleynhans/Module-1-Challange/main/Develop/index.html)
+[link to landing page](https://raw.githack.com/Akleynhans/Module-1-Challange/main/Develop/index.html)
 
 ![Landing Page Screenshot](./Assets/images/screenshot.JPG)
 
